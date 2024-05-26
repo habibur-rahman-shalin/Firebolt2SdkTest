@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firebolt2", "Firebolt2\Firebolt2.csproj", "{A211DAE9-97B4-43C6-B0B4-775B8266DDED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firebolt2SDK", "Firebolt2SDK\Firebolt2SDK.csproj", "{8297F97D-6D0B-4F4D-943F-C896F24F9D62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firebolt2.Connection", "Firebolt2.Connection\Firebolt2.Connection.csproj", "{C7E8A0FF-602F-4162-8AD6-5B1F50F0289B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FireboltDotNetSdk", "FireboltNETSDK\FireboltDotNetSdk.csproj", "{7A776901-291A-4627-A2AD-9892B0CAFF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A211DAE9-97B4-43C6-B0B4-775B8266DDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A211DAE9-97B4-43C6-B0B4-775B8266DDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A211DAE9-97B4-43C6-B0B4-775B8266DDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A211DAE9-97B4-43C6-B0B4-775B8266DDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8297F97D-6D0B-4F4D-943F-C896F24F9D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8297F97D-6D0B-4F4D-943F-C896F24F9D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8297F97D-6D0B-4F4D-943F-C896F24F9D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8297F97D-6D0B-4F4D-943F-C896F24F9D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E8A0FF-602F-4162-8AD6-5B1F50F0289B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E8A0FF-602F-4162-8AD6-5B1F50F0289B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E8A0FF-602F-4162-8AD6-5B1F50F0289B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E8A0FF-602F-4162-8AD6-5B1F50F0289B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A776901-291A-4627-A2AD-9892B0CAFF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A776901-291A-4627-A2AD-9892B0CAFF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A776901-291A-4627-A2AD-9892B0CAFF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A776901-291A-4627-A2AD-9892B0CAFF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F954D28E-13A2-414D-86FC-96FD2EE65BF7}
+	EndGlobalSection
+EndGlobal

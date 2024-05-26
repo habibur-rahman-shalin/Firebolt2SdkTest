@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FireboltNetSDK</id>
+    <version>1.1.2</version>
+    <authors>Firebolt</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>Utils/images/firebolt_logo.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://www.firebolt.io/</projectUrl>
+    <description>A .NET module for connecting and running queries against Firebolt databases</description>
+    <releaseNotes>Initial release of a Firebolt .NET sdk. Supported features
+- Authentication
+- SQL Query execution
+- SET statement support</releaseNotes>
+    <tags>database sql</tags>
+    <repository type="git" url="https://github.com/firebolt-db/firebolt-net-sdk" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Cryptography.KeyDerivation" version="6.0.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.WebUtilities" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CodeAnalysis.CSharp" version="4.2.0" exclude="Build,Analyzers" />
+        <dependency id="NUnit" version="3.13.3" exclude="Build,Analyzers" />
+        <dependency id="NUnit3TestAdapter" version="4.2.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="NodaTime" version="3.1.6" exclude="Build,Analyzers" />
+        <dependency id="Portable.BouncyCastle" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="SimpleCrypto.NetCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.Common" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+        <dependency id="Uno.UI" version="4.5.14" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Workstation\PRACTICES\Firebolt2.0\FireboltNETSDK\bin\Debug\net6.0\FireboltDotNetSdk.dll" target="lib\net6.0\FireboltDotNetSdk.dll" />
+    <file src="D:\Workstation\PRACTICES\Firebolt2.0\FireboltNETSDK\README.md" target="\README.md" />
+    <file src="D:\Workstation\PRACTICES\Firebolt2.0\FireboltNETSDK\Utils\images\firebolt_logo.png" target="\Utils\images\firebolt_logo.png" />
+  </files>
+</package>

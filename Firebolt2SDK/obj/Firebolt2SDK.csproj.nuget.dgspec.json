@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2SDK\\Firebolt2SDK.csproj": {}
+  },
+  "projects": {
+    "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2.Connection\\Firebolt2.Connection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2.Connection\\Firebolt2.Connection.csproj",
+        "projectName": "Firebolt2.Connection",
+        "projectPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2.Connection\\Firebolt2.Connection.csproj",
+        "packagesPath": "C:\\Users\\habibur rahman\\.nuget\\packages\\",
+        "outputPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2.Connection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habibur rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2SDK\\Firebolt2SDK.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2SDK\\Firebolt2SDK.csproj",
+        "projectName": "Firebolt2SDK",
+        "projectPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2SDK\\Firebolt2SDK.csproj",
+        "packagesPath": "C:\\Users\\habibur rahman\\.nuget\\packages\\",
+        "outputPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2SDK\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habibur rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2.Connection\\Firebolt2.Connection.csproj": {
+                "projectPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\Firebolt2.Connection\\Firebolt2.Connection.csproj"
+              },
+              "D:\\Workstation\\PRACTICES\\Firebolt2.0\\FireboltNETSDK\\FireboltDotNetSdk.csproj": {
+                "projectPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\FireboltNETSDK\\FireboltDotNetSdk.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workstation\\PRACTICES\\Firebolt2.0\\FireboltNETSDK\\FireboltDotNetSdk.csproj": {
+      "version": "1.1.2",
+      "restore": {
+        "projectUniqueName": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\FireboltNETSDK\\FireboltDotNetSdk.csproj",
+        "projectName": "FireboltNetSDK",
+        "projectPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\FireboltNETSDK\\FireboltDotNetSdk.csproj",
+        "packagesPath": "C:\\Users\\habibur rahman\\.nuget\\packages\\",
+        "outputPath": "D:\\Workstation\\PRACTICES\\Firebolt2.0\\FireboltNETSDK\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\habibur rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "NodaTime": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "SimpleCrypto.NetCore": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[4.5.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\bin\Debug\net6.0\Firebolt2.Connection.deps.json
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\bin\Debug\net6.0\Firebolt2.Connection.dll
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\bin\Debug\net6.0\Firebolt2.Connection.pdb
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\Firebolt2.Connection.csproj.AssemblyReference.cache
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\Firebolt2.Connection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\Firebolt2.Connection.AssemblyInfoInputs.cache
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\Firebolt2.Connection.AssemblyInfo.cs
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\Firebolt2.Connection.csproj.CoreCompileInputs.cache
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\Firebolt2.Connection.dll
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\refint\Firebolt2.Connection.dll
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\Firebolt2.Connection.pdb
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2.Connection\obj\Debug\net6.0\ref\Firebolt2.Connection.dll

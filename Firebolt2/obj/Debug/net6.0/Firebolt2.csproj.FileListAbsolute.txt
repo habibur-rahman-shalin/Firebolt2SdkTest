@@ -1,0 +1,5 @@
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2\obj\Debug\net6.0\Firebolt2.csproj.AssemblyReference.cache
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2\obj\Debug\net6.0\Firebolt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2\obj\Debug\net6.0\Firebolt2.AssemblyInfoInputs.cache
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2\obj\Debug\net6.0\Firebolt2.AssemblyInfo.cs
+D:\Workstation\PRACTICES\Firebolt2.0\Firebolt2\obj\Debug\net6.0\Firebolt2.csproj.CoreCompileInputs.cache
